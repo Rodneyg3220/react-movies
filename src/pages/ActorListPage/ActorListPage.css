@@ -1,0 +1,16 @@
+li {
+    color: lightgray;
+  }
+  .actors ul {
+    display: flex;
+    flex-direction: column;
+    font-size: 1.5em;
+    align-content: left;
+  }
+  
+  .cast {
+    color: lightgray;
+    font-size: 2em;
+  }
+  
+  
